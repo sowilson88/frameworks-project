@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frameworks-project/static/css/main.37ce3c93.chunk.css",
+    "main.js": "/frameworks-project/static/js/main.2827d5cf.chunk.js",
+    "main.js.map": "/frameworks-project/static/js/main.2827d5cf.chunk.js.map",
+    "runtime-main.js": "/frameworks-project/static/js/runtime-main.5555a256.js",
+    "runtime-main.js.map": "/frameworks-project/static/js/runtime-main.5555a256.js.map",
+    "static/js/2.34f21468.chunk.js": "/frameworks-project/static/js/2.34f21468.chunk.js",
+    "static/js/2.34f21468.chunk.js.map": "/frameworks-project/static/js/2.34f21468.chunk.js.map",
+    "static/js/3.51db9c84.chunk.js": "/frameworks-project/static/js/3.51db9c84.chunk.js",
+    "static/js/3.51db9c84.chunk.js.map": "/frameworks-project/static/js/3.51db9c84.chunk.js.map",
+    "index.html": "/frameworks-project/index.html",
+    "static/css/main.37ce3c93.chunk.css.map": "/frameworks-project/static/css/main.37ce3c93.chunk.css.map",
+    "static/js/2.34f21468.chunk.js.LICENSE.txt": "/frameworks-project/static/js/2.34f21468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5555a256.js",
+    "static/js/2.34f21468.chunk.js",
+    "static/css/main.37ce3c93.chunk.css",
+    "static/js/main.2827d5cf.chunk.js"
+  ]
+}
